@@ -1,0 +1,762 @@
+[
+    {
+    "id": "foodapi1",
+    "name": "Porterhouse",
+    "price": 799,
+    "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243020/FoodApi/m4cnkybck10x5iuudbjt.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+    "category": "steak",
+    "pick": [
+        "mild",
+        "spicy",
+        "cheesy"
+    ],
+    "featured": true
+    },
+
+    {
+        "id": "foodapi2",
+        "name": "Petite Tender",
+        "price": 699,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243036/FoodApi/azrg1dr9cr6kevkiwcwd.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ],
+        "featured": true
+    },
+
+    {
+        "id": "foodapi3",
+        "name": "Tiramisu",
+        "price": 325,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243045/FoodApi/ttoajltwegyu3bxbjrdg.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ],
+        "featured": true
+    },
+
+    {
+        "id": "foodapi4",
+        "name": "Ribeye",
+        "price": 999,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243057/FoodApi/os5qaliqtfwtlcgfz80r.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ],
+        "featured": true
+    },
+
+    {
+        "id": "foodapi5",
+        "name": "Chocolate Mousse",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243066/FoodApi/ymxvhfrpyb99i0gr7ews.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ],
+        "featured": true
+    },
+
+    {
+        "id": "foodapi6",
+        "name": "Blueberry Milkshake",
+        "price": 279,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243074/FoodApi/fvwjh8hlctwwl7bokz2s.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ],
+        "featured": true
+    },
+
+    {
+        "id": "foodapi7",
+        "name": "Strawberry Milkshake",
+        "price": 299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243083/FoodApi/isyc5yyds9onjlop49wt.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi8",
+        "name": "New York Strip",
+        "price": 1299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243090/FoodApi/yrewbbspdiukp3uqvb48.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi9",
+        "name": "Cold Brew Coffee",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243098/FoodApi/jyzw5igwwuppcfgrkbtu.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi10",
+        "name": "Espresso Macchiato",
+        "price": 225,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243107/FoodApi/hq8z3v8yiv10tjonergy.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi11",
+        "name": "Espresso Con Panna",
+        "price": 250,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243116/FoodApi/jxlrb1yfvwizqxnyiwdg.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi12",
+        "name": "Chocolate Milkshake",
+        "price": 299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243125/FoodApi/nisaidovemsp3xyutjne.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi13",
+        "name": "Flank Steak",
+        "price": 599,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243142/FoodApi/pxlmpccqbs85jmnnswie.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi14",
+        "name": "Apple & Butterscotch Pie",
+        "price": 299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243155/FoodApi/ojqiv1s0rzrud6luk9dk.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi15",
+        "name": "Almond & Date Cake",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243163/FoodApi/vfjsdaymmvubmefrcpvi.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi16",
+        "name": "Flat White",
+        "price": 320,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243169/FoodApi/joxkcia8mqiascz8mtwp.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi17",
+        "name": "Skirt Steak",
+        "price": 599,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243319/FoodApi/hvkgfaty3ldqud61pve3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi18",
+        "name": "Salted Caramel",
+        "price": 399,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243175/FoodApi/hay7i7oxtewihymhtmr0.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi19",
+        "name": "Tea Latte Milkshake",
+        "price": 450,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243209/FoodApi/zqmzgrdq73ic4utsykhw.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi20",
+        "name": "Oreo Milkshake",
+        "price": 299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243215/FoodApi/nbkkpmradm4mtbbxcujc.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi21",
+        "name": "Prime Rib",
+        "price": 599,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243218/FoodApi/dx7xhvfuandlfijvrg6v.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi22",
+        "name": "Iced Mocha",
+        "price": 300,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243222/FoodApi/nadmwovxsg9pg7rgxv4l.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi23",
+        "name": "Iced Latte",
+        "price": 279,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243225/FoodApi/xuofq79amxgpzv0vywea.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi24",
+        "name": "Maltesers Tiramisu",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243229/FoodApi/swlodkxzqfoxofnwrx4m.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi25",
+        "name": "Honey Cheesecake",
+        "price": 330,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243232/FoodApi/e9i6sgni1uwq7zjyp3hh.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi26",
+        "name": "Berry Crumble",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243236/FoodApi/cqwi3kilesxvryokvj5i.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi27",
+        "name": "Espresso Lungo",
+        "price": 349,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243239/FoodApi/rcwsc3f6p3yk7udnvvnd.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi28",
+        "name": "Ristretto",
+        "price": 250,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243242/FoodApi/hhim9pdm2dcalu8jcmne.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi29",
+        "name": "Irish Coffee",
+        "price": 279,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243245/FoodApi/mldqjdi2zcwlaptklkg9.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi30",
+        "name": "Frappe",
+        "price": 250,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243248/FoodApi/z2vahabfmehzxzs241fo.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi31",
+        "name": "Double Espresso",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243250/FoodApi/pkowgwm2bcdyohj5tq92.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi32",
+        "name": "Cafe Au Lait",
+        "price": 299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243257/FoodApi/rsegawjufeqbd3dyyit5.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi33",
+        "name": "Americano",
+        "price": 211,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243263/FoodApi/tkpk8lgijjefdygofd02.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi34",
+        "name": "Affogato",
+        "price": 399,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243266/FoodApi/kiu8ctmkna6amtovcteh.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi35",
+        "name": "Cafe Mocha",
+        "price": 279,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243270/FoodApi/srqg55bgwbiy5i4x5tvo.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "coffee",
+        "pick": [
+            "sugary",
+            "sugarless"
+        ]
+    },
+
+    {
+        "id": "foodapi36",
+        "name": "Peppermint Milkshake",
+        "price": 399,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243300/FoodApi/zrrobd3scag8lr9lezj4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi37",
+        "name": "Shamrock Shake",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243300/FoodApi/zrrobd3scag8lr9lezj4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi38",
+        "name": "Cookie Dough Shake",
+        "price": 250,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243303/FoodApi/knool7wgspxtknclofov.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi39",
+        "name": "Kahlua Mocha",
+        "price": 299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243306/FoodApi/adn4dcc6jqnt8w5ybubm.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi40",
+        "name": "Cake Batter Milkshake",
+        "price": 299,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243303/FoodApi/ioyg1fewl5kpscpo5pne.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi41",
+        "name": "Thin Mint Shake",
+        "price": 450,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243312/FoodApi/bor6hf9ypcwnooblrwg2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi42",
+        "name": "Brown Butter Shake",
+        "price": 400,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243304/FoodApi/o6sbekxjbnnp4qksamhs.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi43",
+        "name": "Pina Colada Shake",
+        "price": 500,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243306/FoodApi/rzxrwyjj5lflwcsrrz9y.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "shakes",
+        "pick": [
+            "small",
+            "regular",
+            "large"
+        ]
+    },
+
+    {
+        "id": "foodapi44",
+        "name": "Sirloin Steak",
+        "price": 1099,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243307/FoodApi/jdy1omjxpbzq065ohmv7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi45",
+        "name": "T-Bone Steak",
+        "price": 1199,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243308/FoodApi/grjqd2oovswhqtgxhznj.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi46",
+        "name": "Mint Cheesecake",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243314/FoodApi/ejdfhmuzs8biedda5hyz.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi47",
+        "name": "Lemon Meringue",
+        "price": 250,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243309/FoodApi/ofcfa9pvl9wjqaqgl1z9.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi48",
+        "name": "Amaretto Tart",
+        "price": 269,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243310/FoodApi/xe8l2sairms0tqfo87ha.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi49",
+        "name": "Mangomisu",
+        "price": 350,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243311/FoodApi/sfkbptntcalyvuzpuoyi.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi50",
+        "name": "Anzac Tarts",
+        "price": 399,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243312/FoodApi/ucmtxr2kexzghr3edriy.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "dessert",
+        "pick": [
+            "mild",
+            "sugarless",
+            "sugary"
+        ]
+    },
+
+    {
+        "id": "foodapi51",
+        "name": "Short Ribs",
+        "price": 799,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243316/FoodApi/jbg9kspsg5b11ymkbs6r.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi52",
+        "name": "Flap Steak",
+        "price": 899,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243313/FoodApi/k2brjrehbqtvtbmllbrs.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi53",
+        "name": "Hanger Steak",
+        "price": 1399,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243314/FoodApi/ntmbhaaldtespxfqk5bd.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi54",
+        "name": "Tomahawk Steak",
+        "price": 1199,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243316/FoodApi/nwbke5oyjxpeqtrnrm7s.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    },
+
+    {
+        "id": "foodapi55",
+        "name": "Rump Steak",
+        "price": 1099,
+        "image": "https://res.cloudinary.com/dbjkwdcmx/image/upload/v1699243319/FoodApi/hvkgfaty3ldqud61pve3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos eius iure nostrum! Dolore atque vel ipsa distinctio reprehenderit voluptates debitis ipsum. Dolorum ratione, modi blanditiis quos magni reprehenderit voluptates.",
+        "category": "steak",
+        "pick": [
+            "mild",
+            "spicy",
+            "cheesy"
+        ]
+    }
+]
